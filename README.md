@@ -22,14 +22,16 @@
 ## Документация
 
 1. Предпроектное исследование
-   1. [Benchmarking](https://docs.google.com/spreadsheets/d/1R49JjF24_lFKTKssd9o8DKNoISZ_2VWMpxYD2j9FDoU/edit?gid=0#gid=0)
-   2. [Бэклог](https://docs.google.com/document/d/1gOjJDvBNS2YS1ra75mbf60OfkgoaYCDc4D3-addEdAQ/edit?tab=t.0)
-   3. [Swot](https://docs.google.com/spreadsheets/d/1BBaRTpVgrNlvlOB-S_UjTNObgLUzvCVJwtyStETBHwU/edit?gid=0#gid=0)
-   4. [Анализ целевой аудитори](https://docs.google.com/document/d/1R6Qu_OjQAK2EfOXSxo5bX6QbthJCEHRZrh8oa9_7UkM/edit?tab=t.0)
+   1. Benchmarking [Google Docs](https://docs.google.com/spreadsheets/d/1R49JjF24_lFKTKssd9o8DKNoISZ_2VWMpxYD2j9FDoU/edit?gid=0#gid=0)
+   2. Бэклог [Google Docs](https://docs.google.com/document/d/1gOjJDvBNS2YS1ra75mbf60OfkgoaYCDc4D3-addEdAQ/edit?tab=t.0)
+   3. SWOT [Google Docs](https://docs.google.com/spreadsheets/d/1BBaRTpVgrNlvlOB-S_UjTNObgLUzvCVJwtyStETBHwU/edit?gid=0#gid=0)
+   4. Анализ целевой аудитории [Google Docs](https://docs.google.com/document/d/1R6Qu_OjQAK2EfOXSxo5bX6QbthJCEHRZrh8oa9_7UkM/edit?tab=t.0)
    5. Roadmap
-         1. [Таблица](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
-         2. [Графика (копия в папке documentation)](https://docs.google.com/presentation/d/1hJKwviarcGq9p8mWDx5xXbCDBjhP8e_i9AAz9VXqIuI/edit#slide=id.g34227d7c96e_2_75)
-2. [Техническое задание (также располагается в папке documentation)](https://docs.google.com/document/d/171rH0EEhHco67GnLuTECNhhf_4N8MPdp/edit)
-3. Детализация описания
-   1. [User story с основным use case](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
-   2. [Описание экранов](https://docs.google.com/document/d/1Pvj71p68VfagWwRHHB-5cAj7EPqjRESdURYXC6RZ3Ho/edit?tab=t.0)
+         1. Таблица [Google Docs](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
+         2. Графика [PPTX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/roadmap/Roadmap.pptx)
+2. Техническое задание
+   [DOC](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.doc)
+   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+4. Детализация описания
+   1. User story с основным use case [Google Docs](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
+   2. Описание экранов [Google Docs](https://docs.google.com/document/d/1Pvj71p68VfagWwRHHB-5cAj7EPqjRESdURYXC6RZ3Ho/edit?tab=t.0)
