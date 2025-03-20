@@ -26,7 +26,9 @@
    2. [Бэклог](https://docs.google.com/document/d/1gOjJDvBNS2YS1ra75mbf60OfkgoaYCDc4D3-addEdAQ/edit?tab=t.0)
    3. [Swot](https://docs.google.com/spreadsheets/d/1BBaRTpVgrNlvlOB-S_UjTNObgLUzvCVJwtyStETBHwU/edit?gid=0#gid=0)
    4. [Анализ целевой аудитори](https://docs.google.com/document/d/1R6Qu_OjQAK2EfOXSxo5bX6QbthJCEHRZrh8oa9_7UkM/edit?tab=t.0)
-   5. [Roadmap](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
+   5. Roadmap
+         1. [Таблица](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
+         2. [Графика (копия в папке documentation)](https://docs.google.com/presentation/d/1hJKwviarcGq9p8mWDx5xXbCDBjhP8e_i9AAz9VXqIuI/edit#slide=id.g34227d7c96e_2_75)
 2. [Техническое задание (также располагается в папке documentation)](https://docs.google.com/document/d/171rH0EEhHco67GnLuTECNhhf_4N8MPdp/edit)
 3. Детализация описания
    1. [User story с основным use case](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
