@@ -26,7 +26,9 @@
    2. Бэклог [Google Docs](https://docs.google.com/document/d/1gOjJDvBNS2YS1ra75mbf60OfkgoaYCDc4D3-addEdAQ/edit?tab=t.0)
    3. SWOT [Google Docs](https://docs.google.com/spreadsheets/d/1BBaRTpVgrNlvlOB-S_UjTNObgLUzvCVJwtyStETBHwU/edit?gid=0#gid=0)
    4. Анализ целевой аудитории [Google Docs](https://docs.google.com/document/d/1R6Qu_OjQAK2EfOXSxo5bX6QbthJCEHRZrh8oa9_7UkM/edit?tab=t.0)
-   5. Roadmap
+   5. Технические риски [Google Docs](https://docs.google.com/document/d/1ZqasnJBkvQdfSWO_S1rwHBaWezwKd13cm4uMaCiQXKk/edit?tab=t.0)
+   6. Финанисовая модель [Google Docs](https://docs.google.com/document/d/1Gjryu7Y_Ug15DawXU1J41Sx3w3eg02vZPiy6SGqHxJg/edit?tab=t.0)
+   7. Roadmap
          1. Таблица [Google Docs](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
          2. Графика [PPTX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/roadmap/Roadmap.pptx)
 2. Техническое задание
