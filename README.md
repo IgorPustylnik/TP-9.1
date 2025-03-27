@@ -27,12 +27,12 @@
    3. SWOT [Google Docs](https://docs.google.com/spreadsheets/d/1BBaRTpVgrNlvlOB-S_UjTNObgLUzvCVJwtyStETBHwU/edit?gid=0#gid=0)
    4. Анализ целевой аудитории [Google Docs](https://docs.google.com/document/d/1R6Qu_OjQAK2EfOXSxo5bX6QbthJCEHRZrh8oa9_7UkM/edit?tab=t.0)
    5. Технические риски [Google Docs](https://docs.google.com/document/d/1ZqasnJBkvQdfSWO_S1rwHBaWezwKd13cm4uMaCiQXKk/edit?tab=t.0)
-   6. Финанисовая модель [Google Docs](https://docs.google.com/document/d/1Gjryu7Y_Ug15DawXU1J41Sx3w3eg02vZPiy6SGqHxJg/edit?tab=t.0)
+   6. Финансовая модель [Google Docs](https://docs.google.com/document/d/1Gjryu7Y_Ug15DawXU1J41Sx3w3eg02vZPiy6SGqHxJg/edit?tab=t.0)
    7. Roadmap
          1. Таблица [Google Docs](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
          2. Графика [PPTX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/roadmap/Roadmap.pptx)
 2. Техническое задание
-   [DOC](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.doc)
+   [DOCX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
    [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 4. Детализация описания
    1. User story с основным use case [Google Docs](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
