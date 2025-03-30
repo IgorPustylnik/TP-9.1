@@ -13,7 +13,7 @@
 - [Пустыльник Игорь](https://github.com/IgorPustylnik "Пустыльник Игорь") – Frontend
 - [Шапор Артём](https://github.com/gitash2 "Шапор Артём") - Backend
 - [Караваева Ирина](https://github.com/karavaii "Караваева Ирина") - Дизайнер
-- [Фетисова Алина]() - QA
+- [Фетисова Алина](https://github.com/fatisova "Фетисова Алина") - QA
 
 ## Сервисы
 
