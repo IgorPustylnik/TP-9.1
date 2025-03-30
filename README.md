@@ -48,6 +48,9 @@
 5. API
    [YML](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/api/openapi.yaml)
 
+## Отчёты
+- [Отчёт 1](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D1%82%D0%B0%D0%B9%D0%BC%20%D1%82%D1%80%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D1%83.xlsx)
+
 ## Чеклисты
 - [1 аттестация](https://docs.google.com/spreadsheets/d/10ys2XfOfylePg9caJmLksWstisYV_Fc4T_YPP5Hel1k/edit?gid=1393949489#gid=1393949489)
 
