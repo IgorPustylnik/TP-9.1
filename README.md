@@ -8,12 +8,24 @@
 
 ### Выполняют студенты:
 
-- [Андреева Мария](https://github.com/Larpow "Андреева Мария") - PM
-- [Мошкин Михаил](https://github.com/TypingGatito "Мошкин Михаил") - Аналитик
-- [Пустыльник Игорь](https://github.com/IgorPustylnik "Пустыльник Игорь") – Frontend
-- [Шапор Артём](https://github.com/gitash2 "Шапор Артём") - Backend
-- [Караваева Ирина](https://github.com/karavaii "Караваева Ирина") - Дизайнер
-- [Фетисова Алина](https://github.com/fatisova "Фетисова Алина") - QA
+- Андреева Мария - PM
+  [GitHub](https://github.com/Larpow)
+  [Telegram](https://t.me/larpow)
+- Мошкин Михаил - Аналитик
+  [GitHub](https://github.com/TypingGatito)
+  [Telegram](https://t.me/TypingGatito)
+- Игорь Пустыльник - Frontend
+  [GitHub](https://github.com/IgorPustylnik)
+  [Telegram](https://t.me/designer_23)
+- Шапор Артём - Backend
+  [GitHub](https://github.com/gitash2)
+  [Telegram](https://t.me/alienddd)
+- Караваева Ирина - Дизайнер
+  [GitHub](https://github.com/karavaii)
+  [Telegram](https://t.me/karavaii)
+- Фетисова Алина - QA
+  [GitHub](https://github.com/fatisova)
+  [Telegram](http://t.me/fatisova)
 
 ## Сервисы
 
