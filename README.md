@@ -65,6 +65,7 @@
 ## Чеклисты
 - 1 аттестация
   [Google Docs](https://docs.google.com/spreadsheets/d/10ys2XfOfylePg9caJmLksWstisYV_Fc4T_YPP5Hel1k/edit?gid=1393949489#gid=1393949489)
+  [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/checklists/Чеклист%201%20этап%20-%20чеклист.pdf)
   
   Команды, которые проверяли нас:
   - [Команда 8.2](https://github.com/Lime228/TPProject)
