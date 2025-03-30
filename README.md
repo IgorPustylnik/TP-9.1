@@ -45,6 +45,8 @@
 4. Детализация описания
    1. User story с основным use case [Google Docs](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
    2. Описание экранов [Google Docs](https://docs.google.com/document/d/1Pvj71p68VfagWwRHHB-5cAj7EPqjRESdURYXC6RZ3Ho/edit?tab=t.0)
+5. API
+   [YML](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/api/openapi.yaml)
 
 ## Чеклисты
 - [1 аттестация](https://docs.google.com/spreadsheets/d/10ys2XfOfylePg9caJmLksWstisYV_Fc4T_YPP5Hel1k/edit?gid=1393949489#gid=1393949489)
