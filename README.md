@@ -1,5 +1,7 @@
 # TP-9.1
 
+### Название: Домострой
+
 ### Выполняют студенты:
 
 - [Андреева Мария](https://github.com/Larpow "Андреева Мария") - PM
@@ -16,8 +18,14 @@
 ## Сервисы
 
 - [YouGile](https://ru.yougile.com/team/d7461d11a169/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%A2%D0%9F)
-- [Figma](https://www.figma.com/design/gviBeJ8dSPbMsnHpFn9nvr/das-Projekt?node-id=0-1&t=eTA1Iz4AH8meJPYq-1)
+- [Figma](https://www.figma.com/design/gviBeJ8dSPbMsnHpFn9nvr/das-Projekt?node-id=0-1&t=eTA1Iz4AH8meJPYq-1) (UI Kit, Брендбук)
 - [Miro](https://miro.com/app/board/uXjVIbBlPmk=/)
+
+## Презентации
+
+- 1 аттестация
+  [Видео](https://rutube.ru/video/9135a06ece20e95a3e072260bcf53d7b/)
+  [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/presentations/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%201%20%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
 ## Документация
 
@@ -37,3 +45,10 @@
 4. Детализация описания
    1. User story с основным use case [Google Docs](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
    2. Описание экранов [Google Docs](https://docs.google.com/document/d/1Pvj71p68VfagWwRHHB-5cAj7EPqjRESdURYXC6RZ3Ho/edit?tab=t.0)
+
+## Чеклисты
+- [1 аттестация](https://docs.google.com/spreadsheets/d/10ys2XfOfylePg9caJmLksWstisYV_Fc4T_YPP5Hel1k/edit?gid=1393949489#gid=1393949489)
+
+## Правила ведения репозитория
+
+   [Гайдлайны](https://github.com/IgorPustylnik/TP-9.1/blob/main/guidelines.md)
