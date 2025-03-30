@@ -18,7 +18,7 @@
 ## Сервисы
 
 - [YouGile](https://ru.yougile.com/team/d7461d11a169/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%A2%D0%9F)
-- [Figma](https://www.figma.com/design/gviBeJ8dSPbMsnHpFn9nvr/das-Projekt?node-id=0-1&t=eTA1Iz4AH8meJPYq-1) (UI Kit, Брендбук)
+- [Figma](https://www.figma.com/design/gviBeJ8dSPbMsnHpFn9nvr/das-Projekt?node-id=0-1&t=eTA1Iz4AH8meJPYq-1) (Макеты, UI Kit, Брендбук)
 - [Miro](https://miro.com/app/board/uXjVIbBlPmk=/)
 
 ## Презентации
