@@ -51,8 +51,8 @@
          1. Таблица [Google Docs](https://docs.google.com/spreadsheets/d/1Ft8GjophxqsPmo27qZ6nXiRaqnZ2uXmLeCn7N7kLGsg/edit?gid=0#gid=0)
          2. Графика [PPTX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/roadmap/Roadmap.pptx)
 2. Техническое задание
-   [DOCX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
-   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+   [DOCX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx)
+   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/technical_specification/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 4. Детализация описания
    1. User story с основным use case [Google Docs](https://docs.google.com/document/d/1srijaKcBTBbjggoTeawNIopt_grL3h99W7Ck86WRs-w/edit?tab=t.0)
    2. Описание экранов [Google Docs](https://docs.google.com/document/d/1Pvj71p68VfagWwRHHB-5cAj7EPqjRESdURYXC6RZ3Ho/edit?tab=t.0)
