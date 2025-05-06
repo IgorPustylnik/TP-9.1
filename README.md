@@ -43,9 +43,7 @@
   [Видео](https://rutube.ru/video/9135a06ece20e95a3e072260bcf53d7b/)
   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/presentations/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%201%20%D0%B0%D1%82%D1%82%D0%B0.pdf)
 - 2 аттестация
-
-  Видео (скоро)
-
+  [Видео](https://rutube.ru/video/239870a96a38fd3409d35b2b5f56a398/)
   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/presentations/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202%20%D0%B0%D1%82%D1%82%D0%B0.pdf)
 
 ## Документация
