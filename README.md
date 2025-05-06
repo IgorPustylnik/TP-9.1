@@ -89,6 +89,15 @@
   - [Команда 8.5](https://gitlab.com/vsu.cs/TPmain)
   - [Команда 9.4](https://github.com/MaksimStrelnikov/tp-9.4)
 
+- 2 аттестация
+  [Google Docs](https://docs.google.com/spreadsheets/d/1MxMFb7-JoXt84Pzzy5jll7KQvbfq1uY9xmXZd9ga94c/edit?gid=0#gid=0)
+  
+  Команды, которые проверяли нас:
+  - [Команда 8.2](https://github.com/Lime228/TPProject)
+  - [Команда 8.4](https://github.com/nmasalkin/Project-work)
+  - [Команда 8.5](https://gitlab.com/vsu.cs/TPmain)
+  - [Команда 9.4](https://github.com/MaksimStrelnikov/tp-9.4)
+
 ## Правила ведения репозитория
 
    [Гайдлайны](https://github.com/IgorPustylnik/TP-9.1/blob/main/guidelines.md)
