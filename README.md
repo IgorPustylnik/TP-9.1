@@ -11,7 +11,7 @@
 - [Мобильное приложение (iOS)](https://github.com/IgorPustylnik/domostroy-ios)
 - [Серверная часть (Backend)](https://github.com/gitash2/domostroy-backend)
 
-### Выполняют студенты:
+## Выполняют студенты:
 
 - Андреева Мария - PM
   [GitHub](https://github.com/Larpow)
@@ -93,6 +93,7 @@
 
 - 2 аттестация
   [Google Docs](https://docs.google.com/spreadsheets/d/1MxMFb7-JoXt84Pzzy5jll7KQvbfq1uY9xmXZd9ga94c/edit?gid=0#gid=0)
+  [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/checklists/checklist_2.pdf)
   
   Команды, которые проверяли нас:
   - [Команда 8.2](https://github.com/Lime228/TPProject)
