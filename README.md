@@ -77,6 +77,8 @@
 - [Отчёт 1](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_1.xlsx)
 - [Отчёт 2](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_2.xlsx)
 - [Отчёт 3](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_3.xlsx)
+- [Отчёт 4](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_4.xlsx)
+- [Отчёт 5](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_5.xlsx)
 
 ## Чеклисты
 - 1 аттестация
