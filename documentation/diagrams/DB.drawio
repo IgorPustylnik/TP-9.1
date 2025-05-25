@@ -1,14 +1,14 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram id="kTDgGC2jwDGUlJ-ChQIO" name="Страница — 1">
-    <mxGraphModel dx="2150" dy="1448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3025" dy="1573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="node11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;categories&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; name: varchar(64)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="218" y="192" width="142" height="95" as="geometry" />
+          <mxGeometry x="491" y="575" width="142" height="95" as="geometry" />
         </mxCell>
         <mxCell id="node1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;cities&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; name: varchar(128)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="-8" width="148" height="95" as="geometry" />
+          <mxGeometry x="491" y="388" width="148" height="95" as="geometry" />
         </mxCell>
         <mxCell id="node4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;favourites&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; user_id: bigint&lt;br/&gt; offer_id: bigint&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="8" y="833" width="122" height="94" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="-131" y="1088" width="161" height="147" as="geometry" />
         </mxCell>
         <mxCell id="node8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;rent_request_dates&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; rent_request_id: bigint&lt;br/&gt; offer_date_id: bigint&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-109" y="1453" width="197" height="94" as="geometry" />
+          <mxGeometry x="611" y="1142" width="197" height="94" as="geometry" />
         </mxCell>
         <mxCell id="node7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;roles&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; role: varchar(64)&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: integer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-37" y="-188" width="132" height="95" as="geometry" />
+          <mxGeometry x="-328" y="113" width="132" height="95" as="geometry" />
         </mxCell>
         <mxCell id="node0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;users&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; email: varchar(255)&lt;br/&gt; password: varchar(69)&lt;br/&gt; first_name: varchar(64)&lt;br/&gt; last_name: varchar(64)&lt;br/&gt; phone_number: varchar(16)&lt;br/&gt; role_id: integer&lt;br/&gt; created_at: timestamp with time zone&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id: bigint&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-103" y="120" width="264" height="232" as="geometry" />
@@ -78,24 +78,20 @@
         <mxCell id="label68" value="offer_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge11" vertex="1" connectable="0">
           <mxGeometry x="170" y="796" as="geometry" />
         </mxCell>
-        <mxCell id="edge8" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.833;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node2" target="node11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="277" y="416" />
-              <mxPoint x="289" y="416" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="edge8" value="" style="html=1;rounded=1;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="node2" target="node11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="label50" value="category_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge8" vertex="1" connectable="0">
-          <mxGeometry x="208" y="383" as="geometry" />
+          <mxGeometry x="420" y="688" as="geometry" />
         </mxCell>
-        <mxCell id="edge1" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.001;entryDx=0;entryDy=0;" parent="1" source="node2" target="node1" edge="1">
+        <mxCell id="edge1" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;entryX=0.500;entryY=1.001;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="node2" target="node1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="213" y="421" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="label8" value="city_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge1" vertex="1" connectable="0">
-          <mxGeometry x="138" y="356" as="geometry" />
+          <mxGeometry x="406" y="483" as="geometry" />
         </mxCell>
         <mxCell id="edge7" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.167;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node2" target="node0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -132,35 +128,32 @@
         <mxCell id="label62" value="user_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge10" vertex="1" connectable="0">
           <mxGeometry x="-148" y="726" as="geometry" />
         </mxCell>
-        <mxCell id="edge9" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node8" target="node6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="38" y="1416" />
-              <mxPoint x="389" y="1416" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="edge9" value="" style="html=1;rounded=1;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.750;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="node8" target="node6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="label56" value="offer_date_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge9" vertex="1" connectable="0">
-          <mxGeometry x="169" y="1396" as="geometry" />
+          <mxGeometry x="621" y="1049" as="geometry" />
         </mxCell>
-        <mxCell id="edge5" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.250;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node8" target="node9" edge="1">
+        <mxCell id="edge5" value="" style="html=1;rounded=1;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;elbow=vertical;edgeStyle=orthogonalEdgeStyle;" parent="1" source="node8" target="node9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-60" y="1416" />
-              <mxPoint x="-51" y="1416" />
+              <mxPoint x="709" y="1280" />
+              <mxPoint x="-51" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="label32" value="rent_request_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge5" vertex="1" connectable="0">
-          <mxGeometry x="-163" y="1406" as="geometry" />
+          <mxGeometry x="266" y="1289" as="geometry" />
         </mxCell>
-        <mxCell id="edge3" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0.500;exitY=0.000;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node0" target="node7" edge="1">
+        <mxCell id="edge3" value="" style="html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;dashed=0;startArrow=none;endArrow=block;endSize=12;strokeColor=#595959;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.500;entryY=1.000;entryDx=0;entryDy=0;" parent="1" source="node0" target="node7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="label20" value="role_id:id" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;strokeColor=default;" parent="edge3" vertex="1" connectable="0">
-          <mxGeometry x="-25" as="geometry" />
+          <mxGeometry x="-224" y="255" as="geometry">
+            <mxPoint x="-6" y="-15" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
