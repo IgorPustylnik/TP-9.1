@@ -76,6 +76,14 @@
     [Отчёт о тестировании](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/quality_assurance/qa_docs.pdf)
 8. Инструкция по установке (.ipa файл можно скачать в разделе Releases в репозитории мобильного приложения)
   [Инструкция](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/installation/Инструкция%20Sideloadly.pdf)
+9. ПМИ
+   [DOCX](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/acceptance/ПМИ.docx)
+   [PDF](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/acceptance/ПМИ.pdf)
+10. Прохождение ПМИ
+  [YouTube](https://www.youtube.com/watch?v=SAtgwUDoo34)
+  [RuTube](https://rutube.ru/video/private/6d8c35625be59371ed7c9b26550c9807/?p=lkjOet6wzk4-TGzhiu0svA)
+11. Демонстрация работы приложения
+  [RuTube](https://rutube.ru/video/private/cd78c32398d7a14a298993482ebd1a84/?p=V08Oj00sbBGPU6nQLyPBYg)
 
 ## Отчёты по тайм-трекингу
 - [Отчёт 1](https://github.com/IgorPustylnik/TP-9.1/blob/main/reports/time_tracking_1.xlsx)
