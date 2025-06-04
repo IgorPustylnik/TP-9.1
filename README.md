@@ -74,7 +74,7 @@
 
 7. Тестирование
     [Отчёт о тестировании](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/quality_assurance/qa_docs.pdf)
-8. Инструкция по установке (.ipa файл можно скачать в Releases domostroy-ios)
+8. Инструкция по установке (.ipa файл можно скачать в разделе Releases в репозитории мобильного приложения)
   [Инструкция](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/installation/Инструкция%20Sideloadly.pdf)
 
 ## Отчёты по тайм-трекингу
