@@ -101,6 +101,10 @@
   - [Команда 8.5](https://gitlab.com/vsu.cs/TPmain)
   - [Команда 9.4](https://github.com/MaksimStrelnikov/tp-9.4)
 
+## Результаты опроса тестовой группы пользователей
+- [Форма опросника](https://docs.google.com/forms/d/e/1FAIpQLSf4Ju80bCWoU4Npr7XWtONtINyBlmQyetNwRrUVCi6QxKZjKQ/viewform)
+- [Таблица с результатами](https://docs.google.com/spreadsheets/d/1BkiRCqjJjzNDzEqbt5Z_tqvYGcfnQlJUCuSBGWwSTtM/edit?usp=sharing)
+
 ## Правила ведения репозитория
 
    [Гайдлайны](https://github.com/IgorPustylnik/TP-9.1/blob/main/guidelines.md)
